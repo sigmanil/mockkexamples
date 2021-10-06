@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Example7MultiCapturingTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-03T11:44:05" hostname="DESKTOP-473A5QG" time="2.035">
-  <properties/>
-  <testcase name="storeDataAndTellTheExternalDependency()" classname="Example7MultiCapturingTest" time="2.035"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

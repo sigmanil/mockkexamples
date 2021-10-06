@@ -8,7 +8,7 @@ internal class Example1BasicMockingTest {
 
     /**
      * Nothing in this test actually has anything to do with the ClassyClassWithAGazillionFields. As such,
-     * initializing it is _wrong_ for the test according to normal unit test practice - doing so would
+     * initializing it is wrong for the test according to normal unit test practice - doing so would
      * make the test dependent on code which is not interresting. Mocking the object also lets you avoid
      * having to initialize the gazillion fields.
      *
