@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Example8SimpleVerificationTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-06-04T06:58:05" hostname="JJ62KR6392" time="0.007">
+<testsuite name="Example8SimpleVerificationTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-06-04T07:11:15" hostname="JJ62KR6392" time="0.006">
   <properties/>
-  <testcase name="storeTheString()" classname="Example8SimpleVerificationTest" time="0.004"/>
-  <testcase name="doSomeRemoteWork()" classname="Example8SimpleVerificationTest" time="0.003"/>
+  <testcase name="storeTheString()" classname="Example8SimpleVerificationTest" time="0.003"/>
+  <testcase name="doSomeRemoteWork()" classname="Example8SimpleVerificationTest" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

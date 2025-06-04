@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Example1BasicMockingTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-06-04T06:58:05" hostname="JJ62KR6392" time="0.522">
+<testsuite name="Example1BasicMockingTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-06-04T07:11:14" hostname="JJ62KR6392" time="0.512">
   <properties/>
-  <testcase name="testSomethingWhereTheClassParameterShouldNotMatter()" classname="Example1BasicMockingTest" time="0.464"/>
+  <testcase name="testSomethingWhereTheClassParameterShouldNotMatter()" classname="Example1BasicMockingTest" time="0.454"/>
   <testcase name="testSomethingWhereWeNeedToStub()" classname="Example1BasicMockingTest" time="0.056"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[WARNING: A Java agent has been loaded dynamically (/Users/sigmundmariusnilssen/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy-agent/1.14.17/e3c251a39dc90badaf71c83427ba46840f219d8d/byte-buddy-agent-1.14.17.jar)

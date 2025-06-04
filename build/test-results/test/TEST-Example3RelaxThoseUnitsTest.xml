@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Example3RelaxThoseUnitsTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-06-04T06:58:05" hostname="JJ62KR6392" time="0.054">
+<testsuite name="Example3RelaxThoseUnitsTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-06-04T07:11:14" hostname="JJ62KR6392" time="0.053">
   <properties/>
-  <testcase name="doAllTheThings()" classname="Example3RelaxThoseUnitsTest" time="0.053"/>
-  <testcase name="doAllTheThingsWithLessHassle()" classname="Example3RelaxThoseUnitsTest" time="0.0"/>
+  <testcase name="doAllTheThings()" classname="Example3RelaxThoseUnitsTest" time="0.051"/>
+  <testcase name="doAllTheThingsWithLessHassle()" classname="Example3RelaxThoseUnitsTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

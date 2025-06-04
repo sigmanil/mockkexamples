@@ -6,6 +6,7 @@ plugins {
 
 group = "me.smn"
 version = "1.0-SNAPSHOT"
+java.sourceCompatibility = JavaVersion.VERSION_17
 
 repositories {
     mavenCentral()
@@ -21,5 +22,5 @@ tasks.test {
 }
 
 tasks.withType<KotlinCompile>() {
-    kotlinOptions.jvmTarget = "21"
+    kotlinOptions.jvmTarget = "17"
 }

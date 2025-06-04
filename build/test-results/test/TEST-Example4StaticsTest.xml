@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Example4StaticsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-06-04T06:58:05" hostname="JJ62KR6392" time="0.02">
+<testsuite name="Example4StaticsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-06-04T07:11:14" hostname="JJ62KR6392" time="0.019">
   <properties/>
-  <testcase name="testyMcTestface()" classname="Example4StaticsTest" time="0.02"/>
+  <testcase name="testyMcTestface()" classname="Example4StaticsTest" time="0.019"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
